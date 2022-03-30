@@ -74,7 +74,9 @@ You can also use `npm start` while in the client folder to run items as well as 
 ## Images
 <img src="https://github.com/alexisn84/mern-project/blob/main/client/public/Homepage.png">      
 <img src="https://github.com/alexisn84/mern-project/blob/main/client/public/UserDashboard.png">
-<img src="https://github.com/alexisn84/mern-project/blob/main/client/public/Maid%20List.png">
+<img src="https://github.com/alexisn84/mern-project/blob/main/client/src/assets/screenshots/Maids.png">
+<img src="https://github.com/alexisn84/mern-project/blob/main/client/src/assets/screenshots/client-feedback.png">
+<img src="https://github.com/alexisn84/mern-project/blob/main/client/src/assets/screenshots/leave-review.png">
 
 ## License Details 
 This project is MIT licensed.
