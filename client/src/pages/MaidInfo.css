@@ -1,14 +1,9 @@
-.demo-review {
-    max-width: 400px;
+.review-box {
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 25px;
 }
 
-body {
-    background-color: hsl(219, 70%, 96%)	;
+.right-side {
+    margin-top: 40px;
 }
-
- .review-form-container {
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     margin-top: 40px;
- }

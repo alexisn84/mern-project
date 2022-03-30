@@ -80,11 +80,10 @@ You can also use `npm start` while in the client folder to run items as well as 
 This project is MIT licensed.
 
 ## Questions
-Open a new issue under the repo at https://github.com/msdale/burn-book/issues
+Open a new issue under the repo at https://github.com/alexisn84/mern-project/issues
 
 ## Collaborators
 Alexis El Amrani [GitHub Link](https://github.com/alexisn84)  
 Shawna Boucher [GitHub Link](https://github.com/sboucher2011)  
 Mark Dale [GitHub Link](https://github.com/msdale)  
 Ivy Do [GitHub Link](https://github.com/ivydo)  
-Patty Manecci [GitHub Link](https://github.com/PManecci)
